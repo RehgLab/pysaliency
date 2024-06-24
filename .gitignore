@@ -2,7 +2,7 @@
 .mypy_cache
 /tmp/
 /build/
-/pysaliency_datasets/
+pysaliency_datasets/
 /test_datasets/
 /test_models/
 *.pyc
